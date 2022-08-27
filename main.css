@@ -1,0 +1,23 @@
+header {
+    background-color: red;
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+
+.jadwal {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 13;
+    padding: 10px;
+    text-align: center;
+}
+
+.lokasi {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 13;
+    padding: 10px;
+    text-align: center;
+}
